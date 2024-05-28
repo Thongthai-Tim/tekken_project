@@ -1,0 +1,25 @@
+										VICTOR ANTI
+
+1.After Victor's df4,1 (kneel then gunshot): You can duck under the gunshot, but if you block it and Victor goes into Iai stance, you can use SWL (Side Walk Left) against 	most moves, though you might get hit by big Low moves.
+
+2.Must Know 
+	2.1 U1+2 in Heat:On block, Victor is at -4 frame disadvantage.
+	2.2 Victor's df1,1: You can duck under it as there are no mid options.
+	2.3 Most of Victor's key moves:You can use SWR (Side Walk Right) to evade them.
+
+
+3.Victor's 2,2,2 : You can punish with d2 because it reaches and is quick enough.
+
+4.If you are face down on the ground :	When Victor uses WR2 and it misses, you can punish with 3, giving you +7 frame advantage and close proximity to Victor.
+
+5.Victor's U1,1 on block and cancel :	You can still use SWL. If you can react quickly, you can watch for Victor's cancel and counter with a mid attack around 13 frames. Using 	a 10-frame attack should also work.
+
+6.Victor's db1,1:
+
+	6.1 If on block and canceled: Victor is at -5 frame disadvantage. You can interrupt or use SWL to avoid almost every option, except high homing wall splat moves. This 		needs further lab work but will be checked again.
+	
+	6.2 If on hit:	You can SSR and duck. You will only get hit by Perfume 2,2 (m,m), which leads to either a High (+1) or Mid (-13) follow-up. You can block after 		getting hit by 2,2, and Perfume 2,2 transitions into Iai stance, leaving Victor at +5 frame advantage.
+	
+	6.2.1 If you predict Victor will go into Iai stance from Perfume 2,2 on hit:	You can use a 10-frame move to interrupt. You can't interrupt Iai1 or Iai3, but you 		can sidestep out of these. Iai3 can only be sidestepped to the left (SSL). !!!King can interrupt with GS but can't interrupt Iai1.
+	
+	6.2.2 If Perfume 2,2 on block:	You can interrupt with Iai jab or use SWL.

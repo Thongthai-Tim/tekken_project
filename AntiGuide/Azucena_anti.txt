@@ -1,0 +1,5 @@
+Azucene Guide 
+ 
+1.f4,4(H,H) f4,(4,3)(H,delayM) f4,(4,2)(H,delayh) Can SWR But get f4,4 
+
+2.backturn 3+4(mid) on block -5 ,Don't use ws4 
